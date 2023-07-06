@@ -4,3 +4,4 @@ Huawei
 Motorola
 Xiaomi
 Nokia
+Oppo
